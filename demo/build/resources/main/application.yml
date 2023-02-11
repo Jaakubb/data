@@ -1,0 +1,7 @@
+server:
+  port: 9090
+
+database:
+  url: http://9090/
+  username: user
+  password: password
